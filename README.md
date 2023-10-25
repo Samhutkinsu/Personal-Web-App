@@ -1,2 +1,2 @@
-# Personal Web App
-A test repo for school
+# Personal Website
+Personal Website first time
